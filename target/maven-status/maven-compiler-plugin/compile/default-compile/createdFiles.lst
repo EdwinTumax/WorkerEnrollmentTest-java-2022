@@ -1,0 +1,12 @@
+edu/kalum/workerenrollment/core/client/services/EnrollmentResponse.class
+edu/kalum/workerenrollment/core/WorkerEnrollmentApplication.class
+edu/kalum/workerenrollment/core/verticles/EnrollmentProcessVerticle.class
+edu/kalum/workerenrollment/core/client/services/ObjectFactory.class
+edu/kalum/workerenrollment/core/client/services/EnrollmentProcess.class
+edu/kalum/workerenrollment/core/client/services/EnrollmentProcessResponse.class
+edu/kalum/workerenrollment/core/verticles/QueueConsummerVerticle.class
+edu/kalum/workerenrollment/core/client/services/EnrollmentRequest.class
+edu/kalum/workerenrollment/core/client/services/IEnrollmentService.class
+edu/kalum/workerenrollment/core/client/services/EnrollmentServiceImplService.class
+edu/kalum/workerenrollment/core/domains/EnrollmentProcessRequest.class
+edu/kalum/workerenrollment/core/client/services/package-info.class
