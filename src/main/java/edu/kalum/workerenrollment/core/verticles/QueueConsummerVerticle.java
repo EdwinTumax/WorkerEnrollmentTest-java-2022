@@ -1,5 +1,4 @@
 package edu.kalum.workerenrollment.core.verticles;
-
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.eventbus.DeliveryOptions;
 import io.vertx.core.eventbus.EventBus;
